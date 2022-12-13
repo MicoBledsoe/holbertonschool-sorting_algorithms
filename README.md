@@ -1,0 +1,5 @@
+## Definition: 
+Sorting algorithms are used to rearrange a list of items in a specific order. The most common orders are in ascending or descending order, but other orders are also possible, such as alphabetical or chronological order. The efficiency of a sorting algorithm is often measured by its "Big O" notation, which describes the worst-case scenario for the algorithm's running time. The Big O notation gives an upper bound on the running time of an algorithm, so it tells you how quickly the algorithm will run in the worst-case scenario. For example, if an algorithm has a Big O of O(n^2), it means that the running time of the algorithm is at most proportional to the square of the size of the input. This means that if the input size doubles, the running time will at most quadruple. There are many different sorting algorithms, each with their own strengths and weaknesses. Some common examples include bubble sort, insertion sort, and quicksort.
+
+## Collaborators: 
+MicoBledsoe; (@MicoBledsoe)
