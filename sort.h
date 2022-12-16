@@ -13,6 +13,7 @@
 #include <limits.h>
 #include <fcntl.h>
 #include <errno.h>
+#include <stddef.h>
 
 /**
  * struct listint_s - Doubly linked list node
